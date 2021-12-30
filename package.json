@@ -10,8 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dd-trace": "^1.6.0",
     "debug": "^4.3.3",
     "express": "^4.17.2",
-    "http": "^0.0.1-security"
+    "http": "^0.0.1-security",
+    "winston": "^3.3.3"
   }
 }
