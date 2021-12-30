@@ -45,4 +45,4 @@ const route = router.get('/', (req, res) => {
 app.use('/info', route);
 
 server.listen(port);
-console.log('API rodando na porta ' + port);
+console.log('API running on port ' + port);
